@@ -14,9 +14,10 @@ It is important to be aware that domains often redirect to other domains over th
 
 In order to then effectively block any access to the domain, they should also be added to the list like so
 
-`||foodora.dk^`
-
-`||foodora.com^`
+```
+||foodora.dk^
+||foodora.com^
+```
 
 Provided there were only the two.
 
