@@ -3,6 +3,7 @@
 !template
 !||.dk^
 !||.com^
+!small change
 
 !restaurants:
 ||wolt.dk^
