@@ -1,3 +1,4 @@
 !food deliveries
 
 ||wolt.dk^
+||wolt.com^
