@@ -18,6 +18,7 @@ In order to then effectively block any access to the domain, they should also be
 ||foodora.com^`
 
 Provided there were only the two.
+</br>
 
 ### Whitelisting
 
