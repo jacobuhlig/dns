@@ -32,6 +32,7 @@ In order to whitelist the domain `foodora.dk`, one has to add `@@||foodora.dk^` 
 
 To ensure full functionality, all the related domains should be included.
 
-`@@||foodora.dk^
-
-@@||foodora.com^`
+```
+@@||foodora.dk^
+@@||foodora.com^
+```
