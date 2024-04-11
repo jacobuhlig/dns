@@ -15,6 +15,7 @@ It is important to be aware that domains often redirect to other domains over th
 In order to then effectively block any access to the domain, they should also be added to the list like so
 
 `||foodora.dk^`
+
 `||foodora.com^`
 
 Provided there were only the two.
@@ -32,4 +33,5 @@ In order to whitelist the domain `foodora.dk`, one has to add `@@||foodora.dk^` 
 To ensure full functionality, all the related domains should be included.
 
 `@@||foodora.dk^
+
 @@||foodora.com^`
