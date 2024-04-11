@@ -1,6 +1,23 @@
 !food deliveries
 
+!template
+!||.dk^
+!||.com^
+
+!restaurants:
 ||wolt.dk^
 ||wolt.com^
 ||just-eat.dk^
 ||just-eat.com^
+||foodora.dk^
+||foodora.com^
+||roomservice.dk^
+||jagger.dk^
+
+
+!groceries:
+||nemlig.dk^
+||nemlig.com^
+||hellofresh.dk^
+||hellofresh.com^
+||wakuwaku.dk^
