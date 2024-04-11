@@ -2,3 +2,5 @@
 
 ||wolt.dk^
 ||wolt.com^
+||just-eat.dk^
+||just-eat.com^
