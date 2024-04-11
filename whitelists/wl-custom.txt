@@ -1,4 +1,7 @@
 !custom whitelist
 
-@@||foodora.dk^
-@@||foodora.com^
+!documentation can be found in README.md
+
+!template
+!@@||.dk^
+!@@||.com^
